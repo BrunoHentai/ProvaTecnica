@@ -1,2 +1,2 @@
 # ProvaTecnica
-Prova Técnica - SP
+Prova Técnica - SP.
